@@ -5,7 +5,10 @@ body{font-size: 20px;}
 span {
     color: orange;
 }
-a{color: greenyellow; text-decoration: none; font-size: 30px;}
+a{color: greenyellow; font-size: 30px;}
+a:hover {
+    color: blue;
+}
 .photobag {
     border-radius: 10%;
 }

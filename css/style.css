@@ -6,3 +6,6 @@ span {
     color: orange;
 }
 a{color: greenyellow; text-decoration: none; font-size: 30px;}
+img {
+    border-radius: 10%;
+}
